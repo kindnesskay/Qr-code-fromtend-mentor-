@@ -41,7 +41,7 @@ body{
 }
 .content .big{
   position: relative;
-  height: 50%;
+  height: 45%;
   text-align: center;
 }
 h2{
@@ -57,4 +57,5 @@ p{
   text-align: center;
    position: relative;
   height: 50%;
+  padding-bottom: 2%;
 }
